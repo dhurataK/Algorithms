@@ -1,1 +1,1 @@
-Every day for at least one hour, I was challenged with algorithm problems from Algorithm Challenges curriculum.
+In this repo are the solutions for every algorithm form Algorithm Challenges Book.
